@@ -56,6 +56,7 @@ section{
     border-radius: .5rem;
     border: .2rem solid var(--black);
     background: none;
+    color: var(--black);
 }
 .btn:hover{
     background: var(--green);
